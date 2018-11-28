@@ -1,2 +1,2 @@
-# premature-optimisation-example
+# premature optimisation code demo
 read the title...
